@@ -1,9 +1,2 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmnkuh&show_icons=true&theme=nightowl" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmnkuh&layout=compact&bg_color=nightowl)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
- 
-
+![Stats](https://github-readme-stats.vercel.app/api?username=mmnkuh&show_icons=true&theme=onedark&count_private=true&hide_border=true&hide_rank=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmnkuh&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
