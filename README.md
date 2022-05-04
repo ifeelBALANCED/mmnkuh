@@ -1,5 +1,4 @@
 ### Stats
-(https://camo.githubusercontent.com/804118485087954e4cc74dd73f90d14cf27912c265c24100da7dff6e53e6b15c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f534153532d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d53415353266c6f676f436f6c6f723d)
 ![Stats](https://github-readme-stats.vercel.app/api?username=mmnkuh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmnkuh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
